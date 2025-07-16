@@ -1,3 +1,5 @@
+![](./power-rangers-team.jpg)
+
 # Hey, I'm Alvin 👋
 
 **Engineering Manager | Staff+ Engineer | Remote Team Leader**
