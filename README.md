@@ -69,6 +69,6 @@ The AI revolution reminds me of the early web days—exciting, scary, and full o
 
 ---
 
-**Open to**: Staff+ engineering roles, technical leadership opportunities, and conversations about building high-performing remote teams.
+**Open to**: Staff+ engineering + leadership roles and conversations about building high-performing remote teams.
 
 💼 [LinkedIn Profile](https://www.linkedin.com/in/alvincrespo/) <> 🌐 [Personal Website](https://alvincrespo.com/)
