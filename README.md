@@ -2,7 +2,7 @@
 
 **Engineering Manager | Staff+ Engineer | Remote Team Leader**
 
-I've been writing code since the early 2000s—back when ActionScript 3.0 was cutting-edge and JavaScript wasn't even considered a "real" language. Fast forward through the web revolution, and now I'm navigating the AI transformation that's reshaping how we build and deliver software.
+I've been writing code since the early 2000s—back when ActionScript 3.0 was cutting-edge; making flash sites in highschool for my local bands and uploading flash games to Newgrounds. I was around when JavaScript wasn't even considered a "real" language. Fast forward through the web revolution, and now I'm navigating the AI transformation that's reshaping how we build and deliver software.
 
 Currently leading a remote engineering team of 5 at IQVIA as Associate Director of Software Development, where I balance hands-on technical work with strategic leadership. I believe the best engineering managers are those who can still architect systems, optimize Docker builds, and debug production issues alongside their teams.
 
