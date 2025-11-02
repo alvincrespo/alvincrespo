@@ -1,3 +1,5 @@
+![](./hello.jpg)
+
 # Alvin Crespo
 
 **Engineering Leader** | Building scalable healthcare data platforms & high-performing remote teams
