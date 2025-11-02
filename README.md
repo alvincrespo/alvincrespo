@@ -1,76 +1,89 @@
 ![](./power-rangers-team.jpg)
 
-# Hey, I'm Alvin 👋
+# Alvin Crespo
 
-**Engineering Manager | Staff+ Engineer | Remote Team Leader**
+**Engineering Leader** | Building scalable healthcare data platforms & high-performing remote teams
 
-I've been writing code since the early 2000s—back when ActionScript 3.0 was cutting-edge; making flash sites in highschool for my local bands and uploading flash games to Newgrounds. I was around when JavaScript wasn't even considered a "real" language. Fast forward through the web revolution, and now I'm navigating the AI transformation that's reshaping how we build and deliver software.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvincrespo/)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://alvincrespo.com)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FFstyle=flat&logo=hashnode&logoColor=white)](https://alvincrespo.hashnode.dev/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2587695/alvincrespo)
 
-Currently leading a remote engineering team of 5 at IQVIA as Associate Director of Software Development, where I balance hands-on technical work with strategic leadership. I believe the best engineering managers are those who can still architect systems, optimize Docker builds, and debug production issues alongside their teams.
+## About Me
 
-## 🚀 What I Do
+Currently serving as Associate Director at IQVIA, where I lead a team of amazing engineers on our platform product. With over 15 years in software development, I specialize in building distributed systems that scale both technically and organizationally.
 
-**Technical Leadership**
-- Lead high-performance remote engineering teams
-- Architect and maintain cloud infrastructure (AWS, Kubernetes, Docker)
-- Build data pipelines and ETL processes that process sensitive healthcare data
-- Optimize systems for performance
+My engineering philosophy centers on sustainable architecture and team empowerment. I believe the best technical solutions emerge when engineers understand both the business context and have the autonomy to innovate within clear architectural boundaries.
 
-**Engineering Excellence**
-- Ruby on Rails + React stack expertise
-- AWS services (Lambda, S3, Glue, etc.)
-- Data engineering and pipeline architecture
-- DevOps and infrastructure automation
-- Performance monitoring and observability (Datadog)
+## Technical Leadership
 
-**Team & Process**
-- Remote team culture and development
-- Technical mentoring and career development
-- Cross-functional collaboration with product and business teams
-- Process improvement and automation
+### Current Focus at IQVIA
+Leading platform modernization initiatives that have delivered measurable impact across our clinical research data ecosystem. My team manages critical data pipelines and platform services that power clinical insights for pharmaceutical research.
 
-## 🎯 Current Focus
+#### Key Achievements
 
-The AI revolution reminds me of the early web days—exciting, scary, and full of potential. What excites me most is how AI is becoming our common language for translating complex requirements into user value. I'm exploring how engineering teams can leverage AI to accelerate development while maintaining quality and security standards.
+**Leadership**
+- Led the delivery of a year long modernization project
+- Guided the promotion of internal engineers to senior levels
+- Established engineering career ladders with clear progression paths
+- Built and scaled fully remote engineering team across multiple global geographic regions
 
-## 💼 Experience Highlights
+**Technical**
+- Architected dual-runtime migration strategy enabling zero-downtime platform transitions
+- Reduced query execution time from 30 minutes to 5 seconds through systematic SQL optimization
+- Decreased build times by 67% through Docker layer optimization and CI/CD improvements
+- Implemented comprehensive observability with Datadog, improving MTTR by 30%.
 
-- **IQVIA** (2022-Present): Associate Director, leading platform services for healthcare data interoperability
-- **Career Journey**: 15+ years from individual contributor to management / leadership
-- **Company Scale**: From startups to enterprise, including consulting and pro bono work
-- **Remote Leadership**: 6+ years building and scaling distributed engineering teams
+## Engineering Philosophy
 
-## 🛠️ Tech Stack
+### On Architecture
+Every architectural decision should optimize for long-term maintainability and leverage. The best architectures are not the most elegant or technically sophisticated, but those that provide leverage—enabling teams to deliver more value with less effort over time.
 
-**Languages & Frameworks**
-- Ruby on Rails (Primary)
-- React/JavaScript
-- Python
-- SQL
+### On Team Building
+Engineering teams thrive on trust, clear communication, and well-defined processes.
 
-**Infrastructure & Tools**
-- AWS (Lambda, S3, Glue, EC2)
-- Docker & Kubernetes
-- CI/CD pipelines
-- Datadog monitoring
-- Git/GitHub
+- Trust is built through transparent decision-making and consistent follow-through.
+- Communication is explicit and documented—expectations are written with full context, decisions include rationale, and information is accessible to those who need it.
+- Processes are intentional—every meeting has a clear purpose and agenda, every decision concludes with defined ownership and next steps.
 
-**Specialties**
-- Data engineering & ETL
-- API design & integration
-- Performance optimization
-- Team leadership & mentoring
+### On Technical Debt
+Technical debt is a misnomer. All deferred work represents prioritization tradeoffs between business value, risk, and resource allocation. Making these tradeoffs explicit is an engineering leader's core responsibility.
 
-## 📈 Recent Impact
+## Core Technologies
 
-- Led mission-critical healthcare data integration projects
-- Managed and improved AWS Glue ETL pipelines
-- Improved performance of very complex SQL queries (30m -> 5s)
-- Developed comprehensive onboarding automation for Intel/ARM environments
-- Built Datadog dashboards for enhanced application transparency
+### Languages & Frameworks
+Ruby • Rails • JavaScript • TypeScript • Python • Go • React • Node.js • Elixir
 
----
+### Infrastructure & Cloud
+AWS (Lambda, S3, Aurora, CloudFront, Glue) • Kubernetes • Docker • Terraform
 
-**Open to**: Staff+ engineering + leadership roles and conversations about building high-performing remote teams.
+### Data & Architecture
+PostgreSQL • MySQL • MongoDB • Redis • ETL Pipelines • Event-Driven Architecture
 
-💼 [LinkedIn Profile](https://www.linkedin.com/in/alvincrespo/) <> 🌐 [Personal Website](https://alvincrespo.com/)
+### Healthcare Standards
+HL7 • FHIR • HIPAA Compliance • EMR Integration
+
+## Recent Learning & Exploration
+
+Currently diving deep into AI/ML applications for engineering productivity, with particular focus on:
+- LLM integration for code review and documentation
+- AI-powered developer tools adoption strategies
+- Building ML pipelines for healthcare data analysis
+
+## Open Source & Community
+
+I maintain several open source projects and actively contribute to the Rails and JavaScript ecosystems. My work focuses on developer productivity tools and architectural patterns for scaling applications.
+
+### Featured Projects
+
+##### 🚀 [Chrome Extensions Boilerplate](https://github.com/alvincrespo/Chrome-Extensions-Boilerplate)
+Production-ready Chrome extension architecture used by 50+ internal enterprise tools. Features modular design, TypeScript support, and comprehensive testing setup.
+
+##### ⛏️ [Glypto - Metadata Scraper](https://github.com/alvincrespo/glypto)
+A TypeScript CLI tool for scraping metadata from a website using a provider-based architecture.
+
+##### ♻️ [Hashnode Content Converter](https://github.com/alvincrespo/hashnode-content-converter)
+Convert Hashnode blog exports to framework-agnostic Markdown with YAML frontmatter.
+
+##### 🎮 [MySQL Performance - Gaming Achievement System](https://github.com/alvincrespo/gaming_achievement_system)
+A fully functional Ruby on Rails application that demonstrates MySQL query optimization techniques, specifically comparing traditional JOIN approaches with Window Functions for finding the latest record per group at scale.
