@@ -2,7 +2,7 @@
 
 # Alvin Crespo
 
-**Engineering Leader** | Building scalable healthcare data platforms & high-performing remote teams
+**Associate Director** | Building scalable healthcare data platforms & high-performing remote teams
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvincrespo/)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://alvincrespo.com)
