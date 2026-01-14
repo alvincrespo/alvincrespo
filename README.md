@@ -2,7 +2,7 @@
 
 # Alvin Crespo
 
-**Associate Director** | Building scalable healthcare data platforms & high-performing remote teams
+**Associate Director** | Building scalable data platforms
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvincrespo/)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://alvincrespo.com)
@@ -11,14 +11,13 @@
 
 ## About Me
 
-Currently serving as Associate Director at IQVIA, where I lead a team of amazing engineers on our platform product. With over 15 years in software development, I specialize in building distributed systems that scale both technically and organizationally.
+Currently serving as Associate Director at IQVIA, where I lead a team of amazing engineers on our platform product. I specialize in building distributed systems that scale both technically and organizationally.
 
 My engineering philosophy centers on sustainable architecture and team empowerment. I believe the best technical solutions emerge when engineers understand both the business context and have the autonomy to innovate within clear architectural boundaries.
 
 ## Technical Leadership
 
-### Current Focus at IQVIA
-Leading platform modernization initiatives that have delivered measurable impact across our clinical research data ecosystem. My team manages critical data pipelines and platform services that power clinical insights for pharmaceutical research.
+TBD
 
 #### Key Achievements
 
